@@ -1,0 +1,46 @@
+{"sessionId":"f3c241","runId":"run1","hypothesisId":"H2","location":"src/App.jsx:43","message":"App render started","data":{"component":"App"},"timestamp":1776426029883}
+{"sessionId":"f3c241","runId":"run1","hypothesisId":"H2","location":"src/App.jsx:43","message":"App render started","data":{"component":"App"},"timestamp":1776426029887}
+{"sessionId":"f3c241","runId":"run1","hypothesisId":"H4","location":"src/App.jsx:30","message":"RoleBasedDashboard effect entered","data":{"hasUser":true,"role":"telecaller"},"timestamp":1776426030021}
+{"sessionId":"f3c241","runId":"run1","hypothesisId":"H4","location":"src/App.jsx:30","message":"RoleBasedDashboard effect entered","data":{"hasUser":true,"role":"telecaller"},"timestamp":1776426030034}
+{"sessionId":"f3c241","runId":"run1","hypothesisId":"H2","location":"src/App.jsx:43","message":"App render started","data":{"component":"App"},"timestamp":1776426030235}
+{"sessionId":"f3c241","runId":"run1","hypothesisId":"H2","location":"src/App.jsx:43","message":"App render started","data":{"component":"App"},"timestamp":1776426030238}
+{"sessionId":"f3c241","runId":"run1","hypothesisId":"H2","location":"src/App.jsx:43","message":"App render started","data":{"component":"App"},"timestamp":1776426236636}
+{"sessionId":"f3c241","runId":"run1","hypothesisId":"H2","location":"src/App.jsx:43","message":"App render started","data":{"component":"App"},"timestamp":1776426236639}
+{"sessionId":"f3c241","runId":"run1","hypothesisId":"H4","location":"src/App.jsx:30","message":"RoleBasedDashboard effect entered","data":{"hasUser":true,"role":null},"timestamp":1776426236706}
+{"sessionId":"f3c241","runId":"run1","hypothesisId":"H4","location":"src/App.jsx:30","message":"RoleBasedDashboard effect entered","data":{"hasUser":true,"role":null},"timestamp":1776426236706}
+{"sessionId":"f3c241","runId":"run3","hypothesisId":"H14","location":"backend/controllers/leadController.js:69","message":"getLeads entered","data":{"hasUser":true,"role":"telecaller"},"timestamp":1776426375389}
+{"sessionId":"f3c241","runId":"run3","hypothesisId":"H15","location":"backend/controllers/leadController.js:75","message":"getLeads success","data":{"count":2},"timestamp":1776426375535}
+{"sessionId":"f3c241","runId":"run3","hypothesisId":"H14","location":"backend/controllers/leadController.js:69","message":"getLeads entered","data":{"hasUser":true,"role":"telecaller"},"timestamp":1776426375599}
+{"sessionId":"f3c241","runId":"run3","hypothesisId":"H15","location":"backend/controllers/leadController.js:75","message":"getLeads success","data":{"count":2},"timestamp":1776426375700}
+{"sessionId":"f3c241","runId":"run3","hypothesisId":"H14","location":"backend/controllers/leadController.js:69","message":"getLeads entered","data":{"hasUser":true,"role":"telecaller"},"timestamp":1776426383312}
+{"sessionId":"f3c241","runId":"run3","hypothesisId":"H15","location":"backend/controllers/leadController.js:75","message":"getLeads success","data":{"count":2},"timestamp":1776426383622}
+{"sessionId":"f3c241","runId":"run3","hypothesisId":"H14","location":"backend/controllers/leadController.js:69","message":"getLeads entered","data":{"hasUser":true,"role":"telecaller"},"timestamp":1776426383808}
+{"sessionId":"f3c241","runId":"run3","hypothesisId":"H15","location":"backend/controllers/leadController.js:75","message":"getLeads success","data":{"count":2},"timestamp":1776426383987}
+{"sessionId":"f3c241","runId":"run3","hypothesisId":"H14","location":"backend/controllers/leadController.js:69","message":"getLeads entered","data":{"hasUser":true,"role":"telecaller"},"timestamp":1776426523685}
+{"sessionId":"f3c241","runId":"run3","hypothesisId":"H15","location":"backend/controllers/leadController.js:75","message":"getLeads success","data":{"count":2},"timestamp":1776426523751}
+{"sessionId":"f3c241","runId":"run3","hypothesisId":"H14","location":"backend/controllers/leadController.js:69","message":"getLeads entered","data":{"hasUser":true,"role":"telecaller"},"timestamp":1776426523801}
+{"sessionId":"f3c241","runId":"run3","hypothesisId":"H15","location":"backend/controllers/leadController.js:75","message":"getLeads success","data":{"count":2},"timestamp":1776426523890}
+{"sessionId":"f3c241","runId":"run2","hypothesisId":"H8","location":"src/pages/admin/Dashboard.jsx:34","message":"Dashboard fetchLeads started","data":{"hasUser":true,"role":"telecaller"},"timestamp":1776426622927}
+{"sessionId":"f3c241","runId":"run2","hypothesisId":"H8","location":"src/pages/admin/Dashboard.jsx:34","message":"Dashboard fetchLeads started","data":{"hasUser":true,"role":"telecaller"},"timestamp":1776426622928}
+{"sessionId":"f3c241","runId":"run3","hypothesisId":"H14","location":"backend/controllers/leadController.js:69","message":"getLeads entered","data":{"hasUser":true,"role":"telecaller"},"timestamp":1776426622994}
+{"sessionId":"f3c241","runId":"run3","hypothesisId":"H15","location":"backend/controllers/leadController.js:75","message":"getLeads success","data":{"count":2},"timestamp":1776426623089}
+{"sessionId":"f3c241","runId":"run2","hypothesisId":"H9","location":"src/pages/admin/Dashboard.jsx:39","message":"Dashboard fetchLeads success","data":{"isArray":true,"count":2},"timestamp":1776426623093}
+{"sessionId":"f3c241","runId":"run3","hypothesisId":"H14","location":"backend/controllers/leadController.js:69","message":"getLeads entered","data":{"hasUser":true,"role":"telecaller"},"timestamp":1776426623122}
+{"sessionId":"f3c241","runId":"run3","hypothesisId":"H15","location":"backend/controllers/leadController.js:75","message":"getLeads success","data":{"count":2},"timestamp":1776426623184}
+{"sessionId":"f3c241","runId":"run2","hypothesisId":"H9","location":"src/pages/admin/Dashboard.jsx:39","message":"Dashboard fetchLeads success","data":{"isArray":true,"count":2},"timestamp":1776426623188}
+{"sessionId":"f3c241","runId":"run2","hypothesisId":"H8","location":"src/pages/admin/Dashboard.jsx:34","message":"Dashboard fetchLeads started","data":{"hasUser":true,"role":"telecaller"},"timestamp":1776426628837}
+{"sessionId":"f3c241","runId":"run2","hypothesisId":"H8","location":"src/pages/admin/Dashboard.jsx:34","message":"Dashboard fetchLeads started","data":{"hasUser":true,"role":"telecaller"},"timestamp":1776426628838}
+{"sessionId":"f3c241","runId":"run3","hypothesisId":"H14","location":"backend/controllers/leadController.js:69","message":"getLeads entered","data":{"hasUser":true,"role":"telecaller"},"timestamp":1776426628885}
+{"sessionId":"f3c241","runId":"run3","hypothesisId":"H15","location":"backend/controllers/leadController.js:75","message":"getLeads success","data":{"count":2},"timestamp":1776426628946}
+{"sessionId":"f3c241","runId":"run2","hypothesisId":"H9","location":"src/pages/admin/Dashboard.jsx:39","message":"Dashboard fetchLeads success","data":{"isArray":true,"count":2},"timestamp":1776426628949}
+{"sessionId":"f3c241","runId":"run3","hypothesisId":"H14","location":"backend/controllers/leadController.js:69","message":"getLeads entered","data":{"hasUser":true,"role":"telecaller"},"timestamp":1776426628977}
+{"sessionId":"f3c241","runId":"run3","hypothesisId":"H15","location":"backend/controllers/leadController.js:75","message":"getLeads success","data":{"count":2},"timestamp":1776426629040}
+{"sessionId":"f3c241","runId":"run2","hypothesisId":"H9","location":"src/pages/admin/Dashboard.jsx:39","message":"Dashboard fetchLeads success","data":{"isArray":true,"count":2},"timestamp":1776426629043}
+{"sessionId":"f3c241","runId":"run2","hypothesisId":"H8","location":"src/pages/admin/Dashboard.jsx:34","message":"Dashboard fetchLeads started","data":{"hasUser":true,"role":null},"timestamp":1776427247266}
+{"sessionId":"f3c241","runId":"run2","hypothesisId":"H10","location":"src/pages/admin/Dashboard.jsx:45","message":"Dashboard fetchLeads failed","data":{"errorType":"object","isStringError":false},"timestamp":1776427247386}
+{"sessionId":"f3c241","runId":"run3","hypothesisId":"H14","location":"backend/controllers/leadController.js:69","message":"getLeads entered","data":{"hasUser":true,"role":"telecaller"},"timestamp":1776427247465}
+{"sessionId":"f3c241","runId":"run3","hypothesisId":"H15","location":"backend/controllers/leadController.js:75","message":"getLeads success","data":{"count":2},"timestamp":1776427247543}
+{"sessionId":"f3c241","runId":"run3","hypothesisId":"H14","location":"backend/controllers/leadController.js:69","message":"getLeads entered","data":{"hasUser":true,"role":"telecaller"},"timestamp":1776427301343}
+{"sessionId":"f3c241","runId":"run3","hypothesisId":"H15","location":"backend/controllers/leadController.js:75","message":"getLeads success","data":{"count":2},"timestamp":1776427301418}
+{"sessionId":"f3c241","runId":"run3","hypothesisId":"H14","location":"backend/controllers/leadController.js:69","message":"getLeads entered","data":{"hasUser":true,"role":"telecaller"},"timestamp":1776427380333}
+{"sessionId":"f3c241","runId":"run3","hypothesisId":"H15","location":"backend/controllers/leadController.js:75","message":"getLeads success","data":{"count":2},"timestamp":1776427380407}
